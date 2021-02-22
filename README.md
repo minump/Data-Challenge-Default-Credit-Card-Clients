@@ -1,5 +1,4 @@
 # Data-Challenge-Default-Credit-Card-Clients
-Data Challenge to find insights and predict the likelihood of default 
 This data challenge is aimed at finding actionable insights from the data and predicting the likelihood of default of customers.
 ### The Task
 Task 1 : Build a model to predict the likelihood of default, a model which can generalize to other data points. <br>
