@@ -8,3 +8,6 @@ Task 3 : There can be a few of the columns in the dataset, some commonly occurri
 
 Main goal : Classification model to classify good customers(who do not default) vs bad customers(who default) <br>
 The column to be predicted is 'default payment next month'. <br>
+
+Exploration of the data is done. Some product recommendations are mentioned from the insights gained.<br>
+Some future work is also mentioned that can lead to better customer understanding/segmentation and better modeling.<br>
